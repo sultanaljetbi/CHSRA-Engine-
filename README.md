@@ -5,7 +5,7 @@ This repository contains the official, timestamped implementation of the CHSRA E
 ## ⚖️ Intellectual Property & Licensing Notice
  
 ### 1. Open Source Usage
-This software is licensed under the **GNU General Public License v3 (GPLv3)**. You are free to use, modify, and distribute this code for non-commercial, academic, or open-source projects, provided that any derivative work is also made fully open-source under the same GPLv3 terms.But still i have all the full rights for the modify you made Exclusively
+This software is licensed under the **GNU General Public License v3 (GPLv3)**. You are free to use, modify, and distribute this code for non-commercial, academic, or open-source projects, provided that any derivative work is also made fully open-source under the same GPLv3 terms.But still i have all the full rights for the modify you have made Exclusively
 ### 2. Commercial & Corporate Enterprise Usage (Mandatory License)
 Any commercial use, integration, testing, or deployment of this architecture within closed-source models, proprietary enterprise systems, or commercial Large Language Models (LLMs) by AI corporations (including but not limited to OpenAI, Anthropic, Google, and Microsoft) **strictly prohibits** the use of the GPLv3 license.
  
