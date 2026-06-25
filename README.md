@@ -12,6 +12,6 @@ Any commercial use, integration, testing, or deployment of this architecture wit
  
 Commercial deployment requires an explicit, signed **Commercial Software License Agreement**.
 * **Annual License Fee:** $15,000,000 USD per annum.
-* **Inquiries & Licensing Requests:** To negotiate or obtain a commercial enterprise license, please contact the author directly at [Your Email / Contact Info].
+* **Inquiries & Licensing Requests:** To negotiate or obtain a commercial enterprise license, please contact the author directly at [ben_adams2020@hotmail.com].
  
 *Unauthorized commercial exploitation without a signed agreement will be legally prosecuted as a direct violation of international copyright laws and software licensing regulations.*
